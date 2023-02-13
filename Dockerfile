@@ -10,4 +10,3 @@ RUN javac Main.java
 
 CMD ["java", "Main"]
 
-
